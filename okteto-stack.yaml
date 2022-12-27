@@ -1,5 +1,5 @@
 services:
-  multi-bot:
+  gdbot:
     public: true
     build: .
     resources:
